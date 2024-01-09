@@ -7,9 +7,13 @@
 
 ### :woman_technologist: About Me :
 💰 I’m currently searching for a job
+
 💻 In my free time, I solve problems on Codewars and read tech articles.
+
 👥 I’m looking to collaborate on Python development
+
 ⚡ How to reach me: [ubilby@gmail.com](https://t.me/kirillartyukovskii)
+
 😃 Fun fact: I played for the Belarusian national minifootball team.
 
 
