@@ -14,8 +14,6 @@
 
 [![codewars](https://www.codewars.com/users/Indi77erence/badges/small)](https://www.codewars.com/users/Indi77erence)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Indi77erence&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=Indi77erence)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indi77erence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
