@@ -4,5 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indi77erence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indi77erence)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">I love to make webservices and learn new things. Some info about me here:</h3>
