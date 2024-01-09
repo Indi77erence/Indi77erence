@@ -24,10 +24,11 @@
 
 ---
 ### :fire: My Stats :
-[![codewars](https://www.codewars.com/users/Indi77erence/badges/small)](https://www.codewars.com/users/Indi77erence)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indi77erence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Indi77erence/badges/small)](https://www.codewars.com/users/Indi77erence)
 
 ![](https://komarev.com/ghpvc/?username=Indi77erence)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indi77erence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
