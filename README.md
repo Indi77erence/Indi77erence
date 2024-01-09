@@ -12,7 +12,7 @@
 
 👥 I’m looking to collaborate on Python development
 
-⚡ How to reach me: [ubilby@gmail.com](https://t.me/kirillartyukovskii)
+⚡ How to reach me: https://t.me/kirillartyukovskii
 
 😃 Fun fact: I played for the Belarusian national minifootball team.
 
