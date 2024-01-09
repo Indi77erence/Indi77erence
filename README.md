@@ -5,7 +5,9 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+beginner+Python+developer+:в)](https://git.io/typing-svg)
 
+---
 ### :woman_technologist: About Me :
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -18,10 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
 
 ### :fire: My Stats :
-
-
 [![codewars](https://www.codewars.com/users/Indi77erence/badges/small)](https://www.codewars.com/users/Indi77erence)
 
 
