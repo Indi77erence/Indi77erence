@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+beginner+Python+developer+:в)](https://git.io/typing-svg)
 
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indi77erence)](https://git.io/streak-stats)
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indi77erence&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
