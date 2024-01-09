@@ -6,4 +6,6 @@
 
 [![codewars](https://www.codewars.com/users/Indi77erence/badges/small)](https://www.codewars.com/users/Indi77erence)
 
+![](https://komarev.com/ghpvc/?username=Indi77erence)
+
 <h3 align="center">I love to make webservices and learn new things. Some info about me here:</h3>
