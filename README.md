@@ -6,7 +6,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+beginner+Python+developer+:в)](https://git.io/typing-svg)
 
 ### :woman_technologist: About Me :
+:zap: I’m currently searching for a job
 :zap: In my free time, I solve problems on Codewars and read tech articles.
+:zap: I’m looking to collaborate on Python development
+:zap: How to reach me: [ubilby@gmail.com](https://t.me/kirillartyukovskii)
+:zap: Fun fact: I played for the Belarusian national minifootball team.
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
